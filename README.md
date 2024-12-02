@@ -14,3 +14,9 @@
 - I am a pro at reciting the alphabet backward, including the "now I know my ABCs" part
 - I have no nerves in my right thumb
 
+
+#### About Me:
+I have 10 years of diverse experience in healthcare and research roles prior to transitioning into data science and analytics. I specialize in driving data solutions for high-impact projects. My recent work includes building graph database backends, streamlining data integration pipelines, and applying AI for modern business logic. I am passionate about using data to make an impact especially in industries like healthcare and early education, but making a community impact in any sphere is what's important to me!
+
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sumi-nia-means/) | suminmeans@gmail.com
