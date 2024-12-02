@@ -1,4 +1,4 @@
-##  Hey there! I'm Sumi, Former Biochemist, now Data Scientist and Developer with a Passion for Problem-Solving! ✨
+##  Hey there! I'm Sumi, Former Biochemist, now Data Scientist + Developer with a Passion for Problem-Solving! ✨
 ---
 🔭 What I’m working on: Modernizing COBOL legacy systems, enhancing data retrieval, and creating knowledge graphs with Neo4j & Python.
 
@@ -13,3 +13,4 @@
 - I love video games and cats
 - I am a pro at reciting the alphabet backward, including the "now I know my ABCs" part
 - I have no nerves in my right thumb
+
