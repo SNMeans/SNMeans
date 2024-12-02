@@ -1,9 +1,15 @@
-##  Hey there! I'm Sumi, a former biochemist turned code magician! 🧙‍♂️ 
+##  Hey there! I'm Sumi, Former Biochemist, now Data Scientist and Developer with a Passion for Problem-Solving! ✨
 ---
-- 🔭 **I’m currently working on:** Python + data structures and algorithms, turning theory into tangible solutions. 
+🔭 What I’m working on: Modernizing COBOL legacy systems, enhancing data retrieval, and creating knowledge graphs with Neo4j & Python.
 
-- 🌱 **I’m currently learning:** React and Next.js in addition to supporting tools like Prisma and Radix UI.
-- 👯 **I’m looking to collaborate on:**  A variety of projects including frontend, backend, fullstack, and data domains. 
-- 🤔 **I’m looking for help with:** Data analysis and visualization. I'd love to learn more. 
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/sumi-nia-means-448b34214/)
-- ⚡ **Fun fact:** I speak three languages, can recite the alphabet backwards, and have the superpower of feeling nothing in my thumb (don't worry, it's still handy for coding! 💻). I also like puns!
+🌱 What I’m learning: Refining my skills in ETL pipelines and data visualization. I am also learning/working with AWS in order to build scalable cloud solutions. So far I've worked with Bedrock and S3!
+
+👯 Let’s collaborate: I’m excited about projects involving data pipelines, graph databases, or innovative AI applications.
+
+🤔 Where I need help: Always looking to exchange ideas on advanced data modeling and insights-driven analytics.
+
+🎨 Fun facts:
+- I speak Spanish and Japanese
+- I love video games and cats
+- I am a pro at reciting the alphabet backward, including the "now I know my ABCs" part
+- I have no nerves in my right thumb
