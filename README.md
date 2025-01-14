@@ -1,4 +1,4 @@
-##  Hey there! I'm Sumi, Former Biochemist, now Data Scientist + Developer with a Passion for Problem-Solving! ✨
+##  Hey there! I'm Sumi, Former Biochemist, now Data Analyst + Developer with a Passion for Problem-Solving! ✨
 ---
 🔭 What I’m working on: Modernizing COBOL legacy systems, enhancing data retrieval, and creating knowledge graphs with Neo4j & Python.
 
