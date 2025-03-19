@@ -1,22 +1,43 @@
-##  Hey there! I'm Sumi, Former Biochemist, now Data Analyst + Developer with a Passion for Problem-Solving! ✨
----
-🔭 What I’m working on: Modernizing COBOL legacy systems, enhancing data retrieval, and creating knowledge graphs with Neo4j & Python.
+# 👋 Hi, I'm Sumi 
+### AI, Data Science & Software Engineering | Graph RAG, NLP & Scalable Pipelines | Cloud & DevOps (AWS, Docker)
 
-🌱 What I’m learning: Refining my skills in ETL pipelines and data visualization. I am also learning/working with AWS in order to build scalable cloud solutions. So far I've worked with Bedrock and S3!
+## 🔭 What I’m Working On  
+Modernizing **COBOL legacy systems**, enhancing **data retrieval**, and building **knowledge graphs** with **Neo4j & Python**.  
 
-👯 Let’s collaborate: I’m excited about projects involving data pipelines, graph databases, or innovative AI applications.
+## 🌱 What I’m Learning  
+- Refining **ETL pipelines** and **data visualization**  
+- Expanding my **AWS skills** (Bedrock, S3) for **scalable cloud solutions**  
 
-🤔 Where I need help: Always looking to exchange ideas on advanced data modeling and insights-driven analytics.
+## 👯 Let’s Collaborate On  
+- **Data pipelines**, **graph databases**, and **AI applications**  
+- Always open to exchanging ideas and insights! Also keen on new podcasts, white papers, and/or books!
 
-🎨 Fun facts:
-- I speak Spanish and Japanese
-- I love video games and cats
-- I am a pro at reciting the alphabet backward, including the "now I know my ABCs" part
-- I have no nerves in my right thumb
+## 📊 Recent Projects  
+
+###  🏛 **Graph RAG for COBOL Retrieval** @ Booz Allen Hamilton  
+Built a **Graph RAG proof of concept** using:  
+- **Neo4j, LangChain, LLMs, OpenAI embeddings**  
+- **PageRank, Weakly Connected Components (WCC)** to improve data retrieval  
+
+### 🏥 **EyeQ: Diabetic Retinopathy Detection**  
+Developed a **full-stack Django-based web app** integrating machine learning **CNN-ResNet50** for real-time **patient data management**.  
+
+🔹 **Tech Stack:** Python, TensorFlow, Django, Tailwind CSS, FastAPI, CUDA  
+🔹 **Model Repo:** [GitHub](https://github.com/SNMeans/rrat-diabetic-retinopathy-CNNmodel)  
+🔹 **Web App Repo:** [GitHub](https://github.com/NeffCodes/retinopathy-risk-assessment-tool)  
+
+## 💼 Past Experience  
+- Prior to transitioning into tech, I earned my degree in Biochemistry.
+- I also spent **10 years in healthcare and research**, specializing in clinical workflows, hands-on patient care, medical claims, and healthcare informatics.
+
+## 🎨 Fun Facts  
+- I speak **Spanish & Japanese**  
+- I love **video games and cats**  
+- I can **recite the alphabet backward**, including the song part of *“Now I know my ABCs”* 🎶  
+- I have **no nerves in my right thumb** 
+
+## 📫 Get in Touch  
+📧 **Email:** suminmeans@gmail.com  
+💼 **LinkedIn:** [Sumi Nia Means](https://www.linkedin.com/in/suminmeans/)  
 
 
-#### About Me:
-I have 10 years of diverse experience in healthcare and research roles prior to transitioning into data science and analytics. I specialize in driving data solutions for high-impact projects. My recent work includes building graph database backends, streamlining data integration pipelines, and applying AI for modern business logic. I am passionate about using data to make an impact especially in industries like healthcare and early education, but making a community impact in any sphere is what's important to me!
-
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sumi-nia-means/) | suminmeans@gmail.com
